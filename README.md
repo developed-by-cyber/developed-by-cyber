@@ -1,5 +1,7 @@
 ### Hi there 👋
+Nice to meet you!
 
+I am Daniel Ibekwe. am a frontend web developer.
 <!--
 **developed-by-cyber/developed-by-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
